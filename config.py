@@ -1,0 +1,5 @@
+token = '741179276:AAG9jN2yWD25nsXOcxeywNE3LBvSPe1wpj4'
+owner = '468437664'
+badlist = '686489176' 
+channel = '-1001153662161'
+password = '666'
